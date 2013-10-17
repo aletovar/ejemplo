@@ -1,5 +1,4 @@
 #encoding:utf-8
-#mitchel escribio esta linea
 import socket 
   
 s = socket.socket()   
